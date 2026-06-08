@@ -1,7 +1,7 @@
 [project]
 name = "ai-in-water-management"
 version = "0.1.0"
-description = "Data-science training project for AI in water management, designed for students and water engineers in a summer school."
+description = "AI in Water Management"
 readme = "README.md"
 requires-python = "==3.12.11"
 license = "MIT"
