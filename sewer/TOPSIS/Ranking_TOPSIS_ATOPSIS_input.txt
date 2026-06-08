@@ -1,0 +1,8 @@
+- ATOPSIS_input:
+
+  Architecture  Ratio_Mean  Ratio_Std  Ratio_Total  Ranking 
+      LSTM        0.533       0.432        1.0         1    
+      MLP         0.2501      0.2841      0.1021       2    
+      CNN         0.2169      0.2838       0.0         3    
+
+
